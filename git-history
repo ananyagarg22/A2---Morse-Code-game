@@ -1,0 +1,175 @@
+* [33mcommit 0f4237f9529d5b1458df412f37722fac3f24decb[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 19:55:18 2022 +0100
+[31m|[m 
+[31m|[m     Addition of calculation of statistics
+[31m|[m 
+* [33mcommit a4dc4daf3b9bd726d8dc4fd0068c7f12eb07ead0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: gargr <gargr@tcd.ie>
+[31m|[m Date:   Fri Apr 15 18:50:00 2022 +0100
+[31m|[m 
+[31m|[m     Addition of Watchdog
+[31m|[m 
+* [33mcommit 1ad75475acc5567660d97180cfb661bddd5491e9[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 18:36:53 2022 +0100
+[31m|[m 
+[31m|[m     Some of the final changes and inclusion of Level 3 and Level 4
+[31m|[m 
+* [33mcommit 62f7a97be1d845a6bfa35aa7b2335c9f5901c72a[m
+[31m|[m Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+[31m|[m Date:   Fri Apr 15 16:18:37 2022 +0100
+[31m|[m 
+[31m|[m     Created level3 and level4
+[31m|[m 
+* [33mcommit 4806969bb5b586aa7db5d6c76c17d9671a3d5564[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 16:04:32 2022 +0100
+[31m|[m 
+[31m|[m     Removing .vscode from uploading to repo
+[31m|[m 
+* [33mcommit ae2c5ef58645ed1a3ea02293b07ff02c9fbe285b[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 02:48:24 2022 +0100
+[31m|[m 
+[31m|[m     Minor changes
+[31m|[m 
+* [33mcommit e85500408add8ff2f1854b306436663eacc41447[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 02:46:38 2022 +0100
+[31m|[m 
+[31m|[m     Major project update and code integration
+[31m|[m 
+* [33mcommit 3e06356a61c4cf5e1696cf12b52b5834abf7488c[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 02:26:35 2022 +0100
+[31m|[m 
+[31m|[m     Project refactoring and improvement
+[31m|[m 
+* [33mcommit b59af3514451a31b3e9fa982d0ee9883f4a5e26f[m
+[31m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[31m|[m Date:   Fri Apr 15 02:17:03 2022 +0100
+[31m|[m 
+[31m|[m     Project refactoring
+[31m|[m   
+*   [33mcommit d1c6bbcd4860079dbadb84d08e9d2283ed2dc6a3[m
+[32m|[m[33m\[m  Merge: 185925d a5c6aee
+[32m|[m [33m|[m Author: Mudit Garg <gargmu@tcd.ie>
+[32m|[m [33m|[m Date:   Fri Apr 15 02:04:07 2022 +0100
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     Merge branch 'Adding_c_code' into 'main'
+[32m|[m [33m|[m     
+[32m|[m [33m|[m     Adding c code
+[32m|[m [33m|[m     
+[32m|[m [33m|[m     See merge request gargmu/a2-morse-code-game!2
+[32m|[m [33m|[m   
+[32m|[m *   [33mcommit a5c6aee69e69ca35ed07f93aecd635f21413c079[m
+[32m|[m [34m|[m[32m\[m  Merge: 72537fb 185925d
+[32m|[m [34m|[m[32m/[m  Author: Rahul Garg <gargr@tcd.ie>
+[32m|[m[32m/[m[34m|[m   Date:   Fri Apr 15 01:02:26 2022 +0000
+[32m|[m [34m|[m   
+[32m|[m [34m|[m       Merge branch 'main' into 'Adding_c_code'
+[32m|[m [34m|[m       
+[32m|[m [34m|[m       # Conflicts:
+[32m|[m [34m|[m       #   src/assign2.c
+[32m|[m [34m|[m 
+* [34m|[m [33mcommit 185925db8709ce0e1742e73052cfa5db803fcc14[m
+[35m|[m [34m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m [34m|[m Date:   Fri Apr 15 01:51:44 2022 +0100
+[35m|[m [34m|[m 
+[35m|[m [34m|[m     Minor bug
+[35m|[m [34m|[m 
+* [34m|[m [33mcommit 35819c9ec23f94b7741b38f00f639220111cdf7d[m
+[35m|[m [34m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m [34m|[m Date:   Fri Apr 15 01:49:43 2022 +0100
+[35m|[m [34m|[m 
+[35m|[m [34m|[m     Major code alterations in .c and .S
+[35m|[m [34m|[m 
+* [34m|[m [33mcommit 32c2d9495b4ee464a02b4063926812b1f24b115d[m
+[35m|[m [34m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m [34m|[m Date:   Fri Apr 15 01:19:53 2022 +0100
+[35m|[m [34m|[m 
+[35m|[m [34m|[m     Addition of gpio functions in .c file
+[35m|[m [34m|[m 
+* [34m|[m [33mcommit d215a70f48039056267f3f5232837ed31a341b96[m
+[35m|[m [34m|[m Author: angarg <angarg@tcd.ie>
+[35m|[m [34m|[m Date:   Fri Apr 15 01:03:45 2022 +0100
+[35m|[m [34m|[m 
+[35m|[m [34m|[m     Changes to report and installation of GPIO and Alarm ISR
+[35m|[m [34m|[m 
+* [34m|[m [33mcommit 8cbfd7ef8b9236ef5e4404cc62673103c06307c2[m
+[35m|[m [34m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m [34m|[m Date:   Tue Apr 12 00:04:36 2022 +0100
+[35m|[m [34m|[m 
+[35m|[m [34m|[m     Project files refactoring and addition of a few subroutines in .S
+[35m|[m [34m|[m 
+[35m|[m * [33mcommit 72537fb22791d9664a1d8de4365c54cb063d6574[m
+[35m|[m [35m|[m Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+[35m|[m [35m|[m Date:   Fri Apr 15 01:58:46 2022 +0100
+[35m|[m [35m|[m 
+[35m|[m [35m|[m     Major update for .c and made pio file
+[35m|[m [35m|[m 
+[35m|[m * [33mcommit b2f7075421fe5d38bc610a23478f067401209e1c[m[33m ([m[1;31morigin/Adding_c_code[m[33m)[m
+[35m|[m[35m/[m  Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+[35m|[m   Date:   Tue Apr 12 00:16:01 2022 +0100
+[35m|[m   
+[35m|[m       added_fun_in_test.c
+[35m|[m 
+* [33mcommit 0271c6b5d7bafdd5893670bf2cbb01a194bb4c41[m
+[35m|[m Author: gargr <gargr@tcd.ie>
+[35m|[m Date:   Mon Apr 11 23:00:12 2022 +0100
+[35m|[m 
+[35m|[m     Separated msg printing functions into another c file
+[35m|[m 
+* [33mcommit cf1344c4c69094fc1257fa8286c930ca0134eb8f[m
+[35m|[m Author: gargr <gargr@tcd.ie>
+[35m|[m Date:   Mon Apr 11 22:42:09 2022 +0100
+[35m|[m 
+[35m|[m     Addition of character recognition from morse code function
+[35m|[m 
+* [33mcommit f5863e4320502cfdeb4af2f846a9e8079ac5bf1b[m
+[35m|[m Author: angarg <angarg@tcd.ie>
+[35m|[m Date:   Mon Apr 11 01:07:40 2022 +0100
+[35m|[m 
+[35m|[m     Test commit with test changes in report
+[35m|[m 
+* [33mcommit 85aeaf7919e55bac83d4cb907b509bf96d7262ae[m
+[35m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m Date:   Sun Apr 3 17:21:01 2022 +0100
+[35m|[m 
+[35m|[m     Addition of welcome screen and morse code decoding data
+[35m|[m 
+* [33mcommit f88060c2657bd3f01f9b3ac72026a5103818b03a[m
+[35m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m Date:   Sun Apr 3 16:10:19 2022 +0100
+[35m|[m 
+[35m|[m     Skeleton code for correct direction of the project
+[35m|[m 
+* [33mcommit effbe058d7c8ffaf78833f216bf114bee1455315[m
+[35m|[m Author: muditgarg48 <muditgarg48@gmail.com>
+[35m|[m Date:   Sun Apr 3 15:53:58 2022 +0100
+[35m|[m 
+[35m|[m     Skeleton report addition for future documentation
+[35m|[m   
+*   [33mcommit b4b8abb82e71379e434c3056d231c4f97c7a13ba[m
+[36m|[m[1;31m\[m  Merge: 62b2a8f bc27310
+[36m|[m [1;31m|[m Author: Rahul Garg <gargr@tcd.ie>
+[36m|[m [1;31m|[m Date:   Sun Apr 3 15:43:32 2022 +0100
+[36m|[m [1;31m|[m 
+[36m|[m [1;31m|[m     Merge branch 'Configuration-of-the-folder-with-test-program' into 'main'
+[36m|[m [1;31m|[m     
+[36m|[m [1;31m|[m     Test configuration
+[36m|[m [1;31m|[m     
+[36m|[m [1;31m|[m     See merge request gargmu/a2-morse-code-game!1
+[36m|[m [1;31m|[m 
+[36m|[m * [33mcommit bc2731073c98990c5f257ca89807ce9745dde506[m[33m ([m[1;31morigin/Configuration-of-the-folder-with-test-program[m[33m, [m[1;32mConfiguration-of-the-folder-with-test-program[m[33m)[m
+[36m|[m[36m/[m  Author: muditgarg48 <muditgarg48@gmail.com>
+[36m|[m   Date:   Fri Apr 1 19:28:47 2022 +0100
+[36m|[m   
+[36m|[m       Test configuration
+[36m|[m 
+* [33mcommit 62b2a8f34da48c4db0599ac5b00075edab2e5e95[m
+  Author: Mudit Garg <gargmu@tcd.ie>
+  Date:   Fri Apr 1 17:56:54 2022 +0100
+  
+      Initial commit

@@ -1,0 +1,329 @@
+commit 0f4237f9529d5b1458df412f37722fac3f24decb (HEAD -> main)
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 19:55:18 2022 +0100
+
+    Addition of calculation of statistics
+
+commit a4dc4daf3b9bd726d8dc4fd0068c7f12eb07ead0 (origin/main, origin/HEAD)
+Author: gargr <gargr@tcd.ie>
+Date:   Fri Apr 15 18:50:00 2022 +0100
+
+    Addition of Watchdog
+
+commit 1ad75475acc5567660d97180cfb661bddd5491e9
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 18:36:53 2022 +0100
+
+    Some of the final changes and inclusion of Level 3 and Level 4        
+
+commit 62f7a97be1d845a6bfa35aa7b2335c9f5901c72a
+Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+Date:   Fri Apr 15 16:18:37 2022 +0100
+
+    Created level3 and level4
+
+commit 4806969bb5b586aa7db5d6c76c17d9671a3d5564
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 16:04:32 2022 +0100
+
+    Removing .vscode from uploading to repo
+
+commit ae2c5ef58645ed1a3ea02293b07ff02c9fbe285b
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:48:24 2022 +0100
+
+    Minor changes
+
+commit e85500408add8ff2f1854b306436663eacc41447
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:46:38 2022 +0100
+
+    Major project update and code integration
+
+commit 3e06356a61c4cf5e1696cf12b52b5834abf7488c
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:26:35 2022 +0100
+
+    Project refactoring and improvement
+
+commit b59af3514451a31b3e9fa982d0ee9883f4a5e26f
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:17:03 2022 +0100
+
+    Project refactoring
+
+commit d1c6bbcd4860079dbadb84d08e9d2283ed2dc6a3
+Merge: 185925d a5c6aee
+Author: Mudit Garg <gargmu@tcd.ie>
+Date:   Fri Apr 15 02:04:07 2022 +0100
+
+    Merge branch 'Adding_c_code' into 'main'
+
+    Adding c code
+
+    See merge request gargmu/a2-morse-code-game!2
+
+commit a5c6aee69e69ca35ed07f93aecd635f21413c079
+Merge: 72537fb 185925d
+Author: Rahul Garg <gargr@tcd.ie>
+Date:   Fri Apr 15 01:02:26 2022 +0000
+
+    Merge branch 'main' into 'Adding_c_code'
+
+    # Conflicts:
+    #   src/assign2.c
+
+commit 72537fb22791d9664a1d8de4365c54cb063d6574
+Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+Date:   Fri Apr 15 01:58:46 2022 +0100
+
+    Major update for .c and made pio file
+
+commit 185925db8709ce0e1742e73052cfa5db803fcc14
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 01:51:44 2022 +0100
+
+    Minor bug
+
+commit 35819c9ec23f94b7741b38f00f639220111cdf7d
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 01:49:43 2022 +0100
+
+    Major code alterations in .c and .S
+
+commit 32c2d9495b4ee464a02b4063926812b1f24b115d
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 01:19:53 2022 +0100
+
+    Addition of gpio functions in .c file
+
+commit d215a70f48039056267f3f5232837ed31a341b96
+Author: angarg <angarg@tcd.ie>
+Date:   Fri Apr 15 01:03:45 2022 +0100
+
+    Changes to report and installation of GPIO and Alarm ISR
+
+commit b2f7075421fe5d38bc610a23478f067401209e1c (origin/Adding_c_code)
+Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+Date:   Tue Apr 12 00:16:01 2022 +0100
+
+    added_fun_in_test.c
+
+commit 8cbfd7ef8b9236ef5e4404cc62673103c06307c2
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Tue Apr 12 00:04:36 2022 +0100
+
+    Project files refactoring and addition of a few subroutines in .S
+
+commit 0271c6b5d7bafdd5893670bf2cbb01a194bb4c41
+Author: gargr <gargr@tcd.ie>
+Date:   Mon Apr 11 23:00:12 2022 +0100
+
+    Separated msg printing functions into another c file
+
+commit cf1344c4c69094fc1257fa8286c930ca0134eb8f
+Author: gargr <gargr@tcd.ie>
+Date:   Mon Apr 11 22:42:09 2022 +0100
+
+    Addition of character recognition from morse code function
+
+commit f5863e4320502cfdeb4af2f846a9e8079ac5bf1b
+Author: angarg <angarg@tcd.ie>
+Date:   Mon Apr 11 01:07:40 2022 +0100
+
+    Test commit with test changes in report
+
+commit 85aeaf7919e55bac83d4cb907b509bf96d7262ae
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Sun Apr 3 17:21:01 2022 +0100
+
+    Addition of welcome screen and morse code decoding data
+
+commit f88060c2657bd3f01f9b3ac72026a5103818b03a
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Sun Apr 3 16:10:19 2022 +0100
+
+    Skeleton code for correct direction of the project
+
+commit effbe058d7c8ffaf78833f216bf114bee1455315
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Sun Apr 3 15:53:58 2022 +0100
+
+    Skeleton report addition for future documentation
+
+commit 0f4237f9529d5b1458df412f37722fac3f24decb (HEAD -> main)
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 19:55:18 2022 +0100
+
+    Addition of calculation of statistics
+
+commit a4dc4daf3b9bd726d8dc4fd0068c7f12eb07ead0 (origin/main, origin/HEAD)
+Author: gargr <gargr@tcd.ie>
+Date:   Fri Apr 15 18:50:00 2022 +0100
+
+    Addition of Watchdog
+
+commit 1ad75475acc5567660d97180cfb661bddd5491e9
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 18:36:53 2022 +0100
+
+    Some of the final changes and inclusion of Level 3 and Level 4
+
+commit 62f7a97be1d845a6bfa35aa7b2335c9f5901c72a
+Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+Date:   Fri Apr 15 16:18:37 2022 +0100
+
+    Created level3 and level4
+
+commit 4806969bb5b586aa7db5d6c76c17d9671a3d5564
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 16:04:32 2022 +0100
+
+    Removing .vscode from uploading to repo
+
+commit ae2c5ef58645ed1a3ea02293b07ff02c9fbe285b
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:48:24 2022 +0100
+
+    Minor changes
+
+commit e85500408add8ff2f1854b306436663eacc41447
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:46:38 2022 +0100
+
+    Major project update and code integration
+
+commit 3e06356a61c4cf5e1696cf12b52b5834abf7488c
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:26:35 2022 +0100
+
+    Project refactoring and improvement
+
+commit b59af3514451a31b3e9fa982d0ee9883f4a5e26f
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 02:17:03 2022 +0100
+
+    Project refactoring
+
+commit d1c6bbcd4860079dbadb84d08e9d2283ed2dc6a3
+Merge: 185925d a5c6aee
+Author: Mudit Garg <gargmu@tcd.ie>
+Date:   Fri Apr 15 02:04:07 2022 +0100
+
+    Merge branch 'Adding_c_code' into 'main'
+
+    Adding c code
+
+    See merge request gargmu/a2-morse-code-game!2
+
+commit a5c6aee69e69ca35ed07f93aecd635f21413c079
+Merge: 72537fb 185925d
+Author: Rahul Garg <gargr@tcd.ie>
+Date:   Fri Apr 15 01:02:26 2022 +0000
+
+    Merge branch 'main' into 'Adding_c_code'
+
+    # Conflicts:
+    #   src/assign2.c
+
+commit 72537fb22791d9664a1d8de4365c54cb063d6574
+Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+Date:   Fri Apr 15 01:58:46 2022 +0100
+
+    Major update for .c and made pio file
+
+commit 185925db8709ce0e1742e73052cfa5db803fcc14
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 01:51:44 2022 +0100
+
+    Minor bug
+
+commit 35819c9ec23f94b7741b38f00f639220111cdf7d
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 01:49:43 2022 +0100
+
+    Major code alterations in .c and .S
+
+commit 32c2d9495b4ee464a02b4063926812b1f24b115d
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 15 01:19:53 2022 +0100
+
+    Addition of gpio functions in .c file
+
+commit d215a70f48039056267f3f5232837ed31a341b96
+Author: angarg <angarg@tcd.ie>
+Date:   Fri Apr 15 01:03:45 2022 +0100
+
+    Changes to report and installation of GPIO and Alarm ISR
+
+commit b2f7075421fe5d38bc610a23478f067401209e1c (origin/Adding_c_code)
+Author: angad12387 <61556218+angad12387@users.noreply.github.com>
+Date:   Tue Apr 12 00:16:01 2022 +0100
+
+    added_fun_in_test.c
+
+commit 8cbfd7ef8b9236ef5e4404cc62673103c06307c2
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Tue Apr 12 00:04:36 2022 +0100
+
+    Project files refactoring and addition of a few subroutines in .S
+
+commit 0271c6b5d7bafdd5893670bf2cbb01a194bb4c41
+Author: gargr <gargr@tcd.ie>
+Date:   Mon Apr 11 23:00:12 2022 +0100
+
+    Separated msg printing functions into another c file
+
+commit cf1344c4c69094fc1257fa8286c930ca0134eb8f
+Author: gargr <gargr@tcd.ie>
+Date:   Mon Apr 11 22:42:09 2022 +0100
+
+    Addition of character recognition from morse code function
+
+commit f5863e4320502cfdeb4af2f846a9e8079ac5bf1b
+Author: angarg <angarg@tcd.ie>
+Date:   Mon Apr 11 01:07:40 2022 +0100
+
+    Test commit with test changes in report
+
+commit 85aeaf7919e55bac83d4cb907b509bf96d7262ae
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Sun Apr 3 17:21:01 2022 +0100
+
+    Addition of welcome screen and morse code decoding data
+
+commit f88060c2657bd3f01f9b3ac72026a5103818b03a
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Sun Apr 3 16:10:19 2022 +0100
+
+    Skeleton code for correct direction of the project
+
+commit effbe058d7c8ffaf78833f216bf114bee1455315
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Sun Apr 3 15:53:58 2022 +0100
+
+    Skeleton report addition for future documentation
+
+commit b4b8abb82e71379e434c3056d231c4f97c7a13ba
+Merge: 62b2a8f bc27310
+Author: Rahul Garg <gargr@tcd.ie>
+Date:   Sun Apr 3 15:43:32 2022 +0100
+
+    Merge branch 'Configuration-of-the-folder-with-test-program' into 'main'
+
+    Test configuration
+
+    See merge request gargmu/a2-morse-code-game!1
+
+commit bc2731073c98990c5f257ca89807ce9745dde506 (origin/Configuration-of-the-folder-with-test-program, Configuration-of-the-folder-with-test-program)
+Author: muditgarg48 <muditgarg48@gmail.com>
+Date:   Fri Apr 1 19:28:47 2022 +0100
+
+    Test configuration
+
+commit 62b2a8f34da48c4db0599ac5b00075edab2e5e95
+Author: Mudit Garg <gargmu@tcd.ie>
+Date:   Fri Apr 1 17:56:54 2022 +0100
+
+    Initial commit
+(END)q
